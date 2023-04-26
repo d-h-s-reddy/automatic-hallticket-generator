@@ -1,7 +1,7 @@
 <?php
   session_start();
   $mysqli=mysqli_connect('localhost','root','','examination');
-  $v=$_SESSION['id'];
+  $v=$_POST['id'];
   $sql="SELECT * FROM student where rollno='$v'";
   $result=$mysqli->query($sql);
 //   $result2=$mysqli->query($sql2);
