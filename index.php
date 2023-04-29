@@ -123,7 +123,7 @@
         <table class="tb2" >
             <?php
               while($rows1= mysqli_fetch_array($result1)){
-                for($i=0;$i<3;$i++){
+                for($i=0;$i<5;$i++){
                    $dd[$i]=$rows1[$i+1];
                 }
               }

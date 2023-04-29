@@ -30,32 +30,45 @@
         <input type="text" name="branch"><br>
         <label class="te">Regulation:</label>
         <input type="text" name="reg"><br>
-        <label class="te">select the First subject:</label>
+        <label class="te">Select the First subject:</label>
         <select name="subj1" class="te1">
-            <option value="R201921">R201921</option>
-            <option value="R201922">R201922</option>
-            <option value="R201923">R201923</option>
-            <option value="R201924">R201924</option>
-            <option value="R201925">R201925</option>
-            <option value="R201926">R201926</option>
+            <option value="R201921">ADVANCED JAVA PROGRAMMING</option>
+            <option value="R201922">AUTOMATA AND COMPILER DESIGNING</option>
+            <option value="R201923">CRYPTOGRAPHY AND NETWORKING</option>
+            <option value="R201924">MACHINE LEARNING</option>
+            <option value="R201925">BASICS OF AWS FRAMEWORK</option>
         </select><br>
-        <label >select the second subject:</label>
+        <label >Select the second subject:</label>
         <select name="subj2" class="te1">
-            <option value="R201921">R201921</option>
-            <option value="R201922">R201922</option>
-            <option value="R201923">R201923</option>
-            <option value="R201924">R201924</option>
-            <option value="R201925">R201925</option>
-            <option value="R201926">R201926</option>
+            <option value="R201921">ADVANCED JAVA PROGRAMMING</option>
+            <option value="R201922">AUTOMATA AND COMPILER DESIGNING</option>
+            <option value="R201923">CRYPTOGRAPHY AND NETWORKING</option>
+            <option value="R201924">MACHINE LEARNING</option>
+            <option value="R201925">BASICS OF AWS FRAMEWORK</option>
         </select><br>
-        <label >select the third subject:</label>
+        <label >Select the third subject:</label>
         <select name="subj3" class="te1">
-            <option value="R201921">R201921</option>
-            <option value="R201922">R201922</option>
-            <option value="R201923">R201923</option>
-            <option value="R201924">R201924</option>
-            <option value="R201925">R201925</option>
-            <option value="R201926">R201926</option>
+            <option value="R201921">ADVANCED JAVA PROGRAMMING</option>
+            <option value="R201922">AUTOMATA AND COMPILER DESIGNING</option>
+            <option value="R201923">CRYPTOGRAPHY AND NETWORKING</option>
+            <option value="R201924">MACHINE LEARNING</option>
+            <option value="R201925">BASICS OF AWS FRAMEWORK</option>
+        </select><br>
+        <label >Select the fourth subject:</label>
+        <select name="subj4" class="te1">
+            <option value="R201921">ADVANCED JAVA PROGRAMMING</option>
+            <option value="R201922">AUTOMATA AND COMPILER DESIGNING</option>
+            <option value="R201923">CRYPTOGRAPHY AND NETWORKING</option>
+            <option value="R201924">MACHINE LEARNING</option>
+            <option value="R201925">BASICS OF AWS FRAMEWORK</option>
+        </select><br>
+        <label >Select the fifth subject:</label>
+        <select name="subj5" class="te1">
+            <option value="R201921">ADVANCED JAVA PROGRAMMING</option>
+            <option value="R201922">AUTOMATA AND COMPILER DESIGNING</option>
+            <option value="R201923">CRYPTOGRAPHY AND NETWORKING</option>
+            <option value="R201924">MACHINE LEARNING</option>
+            <option value="R201925">BASICS OF AWS FRAMEWORK</option>
         </select><br>
         <input type="submit" value="login" class="btn2"><br>
     </form>

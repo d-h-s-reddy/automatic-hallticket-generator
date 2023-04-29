@@ -15,7 +15,7 @@
     <h1> If your are the existing user then enter your hallticket number to print the hallticket</h1>
     <form action="index.php" method="post">
         <label class="te"> Enter the hallticket number:</label>
-        <input type="text" name="id"><br>
+        <input type="text" name="id" required><br>
         <?php$_SESSION['id']=$_POST['id'];?>
         <input type="submit" value="print the hallticket" class="btn2">
         
